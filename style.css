@@ -3,7 +3,7 @@
 }
 h1{
     color: #f80000;
-    text-shadow: 0px 0px 25px #f80000;
+    text-shadow: 0px 0px 75px #f80000;
     font-size: 10vh; 
 }
 a{
@@ -213,4 +213,5 @@ h3{
     .SiteVizitkaP{
         font-size: 35px;
     }
+
 }
